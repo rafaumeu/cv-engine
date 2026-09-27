@@ -1,0 +1,4 @@
+pydantic[email]>=2.7
+
+[dev]
+pytest>=8

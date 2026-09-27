@@ -1,0 +1,325 @@
+{
+  "_source": "https://github.com/rafaumeu/hireme-agent/blob/main/src/config.ts (verified 2026-09-27) + revisão externa 27/09/2026 aplicada",
+  "_honesty_rules": "Exemplo: substitua pelos seus dados reais e verificáveis.",
+  "name": "Nome Sobrenome",
+  "headline": "Desenvolvedor Full Stack | TypeScript | React | Node.js",
+  "title": "Full Stack Developer",
+  "seniority": "pleno",
+  "preferred_contract": "CLT",
+  "contact": {
+    "email": "email@exemplo.com",
+    "phone": "+55 11 99999-9999",
+    "location": "Cidade, Estado, País",
+    "linkedin": "https://linkedin.com/in/exemplo",
+    "github": "https://github.com/exemplo",
+    "portfolio": "https://exemplo.dev"
+  },
+  "summary_options": [
+    "Desenvolvedor Full Stack em início de carreira, com experiência prática em projetos próprios e contribuições para produtos utilizados em produção. Mais de 2.700 testes automatizados em projetos próprios e 100+ pull requests merged em repositórios públicos. Experiência com TypeScript, React, Node.js, Vue, PostgreSQL, Clean Architecture, DDD, Git e CI/CD."
+  ],
+  "verified_facts": {
+    "total_tests_real": "2700+ (1900 Tesouros + 815 Study Prep)",
+    "oss_contributions": [
+      "unjs/ufo",
+      "unjs/scule",
+      "Mattermost",
+      "Hermes Agent (NousResearch)"
+    ],
+    "nota": "Contagens de repos removidas do CV por serem métrica fraca e inconsistente (39/57/127 confundiam o leitor)"
+  },
+  "experience": [
+    {
+      "company": "Empresa Exemplo",
+      "role": "Contribuidor Full Stack",
+      "period": "2025 – Presente",
+      "start": "2025-01",
+      "end": null,
+      "is_tech": true,
+      "description": "",
+      "achievements": [
+        "100+ pull requests merged em projetos utilizados em produção: plataforma PIANO (web Vue/Vuetify, API Hono+SQLite, app Electron, APK Flutter) e sistema de agendamento AGENVA",
+        "Desenvolvi receivers de TV para webOS (LG), Tizen (Samsung) e Android TV — updater automático, protocolo WebSocket multi-tela e paridade de renderização com o app principal",
+        "Implementei autenticação unificada (Firebase + Google), gamificação com ranking e badges, sync offline-first (LWW + tombstones) e billing com Asaas",
+        "Funcionalidades implementadas entraram em produção e são usadas por usuários reais das plataformas"
+      ]
+    },
+    {
+      "company": "Empresa Exemplo",
+      "role": "Desenvolvedor Full Stack",
+      "period": "Out 2024 – Presente",
+      "start": "2024-10",
+      "end": null,
+      "is_tech": true,
+      "description": "",
+      "achievements": [
+        "Desenvolvo aplicações full-stack com Next.js, Node.js, PostgreSQL e TypeScript",
+        "Estruturei projetos com Clean Architecture, DDD e monorepo",
+        "Acumulei mais de 2.700 testes automatizados e pipelines de CI/CD com GitHub Actions"
+      ]
+    },
+    {
+      "company": "Teleperformance",
+      "role": "Atendente de Suporte ao Cliente (Expert in Interaction)",
+      "period": "Jul 2024 – Nov 2024",
+      "start": "2024-07",
+      "end": "2024-11",
+      "is_tech": false,
+      "description": "Mediação de conflitos e atendimento a compradores e vendedores (remoto, meio período).",
+      "achievements": []
+    },
+    {
+      "company": "De Bem Tintas",
+      "role": "Assistente de Produção",
+      "period": "Fev 2021 – Dez 2023",
+      "start": "2021-02",
+      "end": "2023-12",
+      "is_tech": false,
+      "description": "Produção de produtos para acabamento na construção civil.",
+      "achievements": []
+    },
+    {
+      "company": "Tempo USS (Tokyo Marine)",
+      "role": "Analista de Atendimento ao Cliente",
+      "period": "Mar 2015 – Jun 2020",
+      "start": "2015-03",
+      "end": "2020-06",
+      "is_tech": false,
+      "description": "Atendimento humanizado a clientes de seguros (Tokyo Marine) e odontológicos (Odonto Empresas); retenção e colaboração entre departamentos.",
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Estácio",
+      "course": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "status": "Cursando"
+    }
+  ],
+  "complementary_education": [
+    {
+      "institution": "Rocketseat",
+      "course": "Formação Full Stack (Ignite)",
+      "status": "300+ horas de formação estruturada"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Node.js",
+      "issuer": "Rocketseat",
+      "hours": 50
+    },
+    {
+      "name": "React.js",
+      "issuer": "Rocketseat",
+      "hours": 50
+    },
+    {
+      "name": "DevOps",
+      "issuer": "Rocketseat",
+      "hours": 50
+    },
+    {
+      "name": "IA para Devs",
+      "issuer": "Rocketseat",
+      "hours": 30
+    },
+    {
+      "name": "DDD no Node.js",
+      "issuer": "Rocketseat"
+    },
+    {
+      "name": "Docker e CI/CD com GitHub Actions",
+      "issuer": "Rocketseat"
+    }
+  ],
+  "stack_categories": {
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "Python"
+    ],
+    "frontend": [
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "Vue",
+      "Vuetify"
+    ],
+    "backend": [
+      "Node.js",
+      "NestJS",
+      "Fastify",
+      "REST APIs",
+      "Hono"
+    ],
+    "data": [
+      "PostgreSQL",
+      "SQLite",
+      "Supabase",
+      "Prisma",
+      "Drizzle ORM"
+    ],
+    "testing": [
+      "Vitest",
+      "Jest",
+      "Playwright"
+    ],
+    "devops": [
+      "Docker",
+      "GitHub Actions",
+      "CI/CD",
+      "AWS"
+    ],
+    "architecture": [
+      "Clean Architecture",
+      "DDD",
+      "SOLID"
+    ],
+    "ai_automation": [
+      "LLMs",
+      "RAG",
+      "n8n"
+    ],
+    "mobile": [
+      "Flutter (Android)",
+      "PWA",
+      "TV apps (webOS/Tizen/AndroidTV)"
+    ],
+    "infra": [
+      "Redis",
+      "BullMQ"
+    ]
+  },
+  "soft_skills": [
+    "Aprendizado Contínuo",
+    "Resolução de Problemas",
+    "Trabalho em Equipe",
+    "Comunicação Clara",
+    "Visão de Dono",
+    "Mediação",
+    "Empatia",
+    "Negociação",
+    "Atenção a Detalhes"
+  ],
+  "projects": [
+    {
+      "name": "Tesouros de Jaú",
+      "description": "Plataforma gamificada para clubes adventistas — PWA offline-first com repetição espaçada (SRS) e 5 sistemas de missão diária",
+      "result": "1.900+ testes automatizados com cobertura total do domínio; service worker para uso offline completo",
+      "technologies": [
+        "Next.js",
+        "Supabase",
+        "Tailwind CSS",
+        "TypeScript"
+      ],
+      "url": "https://github.com/rafaumeu/tesouros-portal",
+      "featured": true
+    },
+    {
+      "name": "Study Prep",
+      "description": "Plataforma de estudo para ADS com geração de quizzes por IA",
+      "result": "815+ testes automatizados, 30+ rotas de API, 17 tabelas no banco de dados",
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "url": "https://github.com/rafaumeu/estacio-prep",
+      "featured": true
+    },
+    {
+      "name": "HireMe Agent",
+      "description": "Plataforma de gestão de candidaturas: coleta de vagas, avaliação por IA, geração de documentos e automação de aplicações",
+      "result": "25+ coletores de vagas automatizados e pipeline completo de candidatura",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Playwright",
+        "SQLite"
+      ],
+      "url": "https://github.com/rafaumeu/hireme-agent",
+      "featured": true
+    },
+    {
+      "name": "AGENVA — Sistema de Agendamento",
+      "description": "Gestão de atendimentos para salões de beleza e barbearias: conta, endereço, lembretes, bloqueios, lista de espera e billing",
+      "result": "F0-F5 entregues via PRs merged: checkout Asaas, confirmação via WhatsApp, link público por slug",
+      "technologies": [
+        "Hono",
+        "Drizzle ORM",
+        "PostgreSQL",
+        "Redis",
+        "Flutter",
+        "TypeScript"
+      ],
+      "url": "https://github.com/kidev-tec/api-myschedule",
+      "featured": true
+    },
+    {
+      "name": "cv-engine",
+      "description": "Pipeline em Python para geração de currículos: match vaga-candidato, gerador HTML semântico e validação automática de qualidade",
+      "result": "42 testes de regressão; extração de texto do PDF validada programaticamente",
+      "technologies": [
+        "Python",
+        "Pydantic",
+        "pytest",
+        "Chrome headless"
+      ],
+      "url": "https://portfoliodev-blush-pi.vercel.app",
+      "featured": true
+    },
+    {
+      "name": "Open Source",
+      "description": "Contribuições em unjs (ufo, scule), Mattermost e Hermes Agent (NousResearch)",
+      "result": "Histórico verificável no GitHub",
+      "technologies": [
+        "TypeScript",
+        "Node.js",
+        "Git"
+      ],
+      "url": "https://github.com/rafaumeu?tab=overview&from=2026-01-01",
+      "featured": false
+    }
+  ],
+  "other_projects_line": "Outros projetos: Advanced Forum, Hairday, DevStore e Inorbit — github.com/rafaumeu",
+  "star_stories": [
+    {
+      "id": "saas-quality",
+      "competencies": [
+        "results_orientation",
+        "technical_excellence"
+      ],
+      "situation": "Projetos SaaS próprios crescendo sem rede de segurança de testes",
+      "task": "Garantir qualidade sustentável sem travar a velocidade de entrega",
+      "action": "Implementei pipeline de testes em camadas (unit → integration → e2e com Playwright), TDD nas features novas, coverage gate no CI",
+      "result": "2.700+ testes entre projetos; refatorações e deploys sem regressão"
+    },
+    {
+      "id": "monorepo-ddd",
+      "competencies": [
+        "architecture",
+        "ownership"
+      ],
+      "situation": "Código acoplado difícil de evoluir em plataforma multi-módulo",
+      "task": "Estruturar monorepo escalável de 17 tabelas",
+      "action": "Adotei Clean Architecture + DDD: entidades ricas, casos de uso isolados, adapters por camada, contratos tipados compartilhados",
+      "result": "Fronteiras claras entre módulos; novas features sem efeito dominó"
+    },
+    {
+      "id": "automation-mindset",
+      "competencies": [
+        "problem_solving",
+        "continuous_learning"
+      ],
+      "situation": "Processo manual de busca e aplicação de vagas consumia horas semanais",
+      "task": "Automatizar ponta a ponta sem perder personalização",
+      "action": "Construí o HireMe Agent: 25+ coletores de vagas, scoring com IA, geração de documentos por vaga, automação de envio",
+      "result": "Pipeline completo automatizado; virou produto reutilizável com templates e CLI"
+    }
+  ],
+  "languages": [
+    "Português (nativo)",
+    "Inglês intermediário — leitura e escrita técnica"
+  ]
+}
